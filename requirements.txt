@@ -1,0 +1,7 @@
+PasteDeploy
+gunicorn
+psycopg2
+pyramid
+pyramid_tm
+sqlalchemy
+zope.sqlalchemy
